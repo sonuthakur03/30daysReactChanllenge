@@ -36,26 +36,26 @@ This challenge utilizes a variety of technologies to create dynamic web applicat
 
 To set up the projects locally, follow these steps:
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/sonuthakur03/30daysReactChallenge.git
-   cd 30daysReactChallenge
-   cd day-01  # replace with the desired day's folder
-   ```
+Clone this repository:
+```bash
+git clone https://github.com/sonuthakur03/30daysReactChallenge.git
+cd 30daysReactChallenge
+cd day-01  # replace with the desired day's folder
+```
 Install the necessary dependencies:
     
-    ```bash
-    Copy code
-    npm install
-    ```
+```bash
+Copy code
+npm install
+```
 
 ## Usage
 To run a React project locally, execute the following command:
 
-    ```bash
-    Copy code
-    npm run dev
-    ```
+```bash
+Copy code
+npm run dev
+```
 This command will start the development server, allowing you to view the project in your browser at http://localhost:5173.
 
 ## Contributing
