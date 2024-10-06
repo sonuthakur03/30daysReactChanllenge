@@ -29,11 +29,6 @@ This challenge utilizes a variety of technologies to create dynamic web applicat
 
 ## Folder Structure
 
-/30-days-of-react │ ├── 01-toggle-paragraph │ └── [Project files for day 1] ├── 02-counter-app │ └── [Project files for day 2] └── README.md
-
-vbnet
-Copy code
-
 - Each day has its own folder containing the respective project files.
 - Detailed information about each project can be found in the README files located within each day's folder.
 
@@ -46,19 +41,21 @@ To set up the projects locally, follow these steps:
    git clone https://github.com/sonuthakur03/30daysReactChallenge.git
    cd 30daysReactChallenge
    cd day-01  # replace with the desired day's folder
+   ```
 Install the necessary dependencies:
-```bash
-Copy code
-npm install
-```
+    
+    ```bash
+    Copy code
+    npm install
+    ```
 
 ## Usage
 To run a React project locally, execute the following command:
 
-```bash
-Copy code
-npm run dev
-```
+    ```bash
+    Copy code
+    npm run dev
+    ```
 This command will start the development server, allowing you to view the project in your browser at http://localhost:5173.
 
 ## Contributing
